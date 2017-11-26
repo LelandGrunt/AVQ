@@ -10,7 +10,7 @@ AVQ currently supports the following Alpha Vantage data:
 
 AVQ required a free Alpha Vantage API Key, that can be requested on [www.alphavantage.co](https://www.alphavantage.co/support/#api-key).
 
-For users of the shutdown [xlquote](www.xlquotes.com) Add-In, AVQ provides an UDF with the same function signature "XLQ" as the original one, but supports only selected parameter values.
+For users of the shutdown [xlquote](http://www.xlquotes.com) Add-In, AVQ provides an UDF with the same function signature "XLQ" as the original one, but supports only selected parameter values.
 
 AVQ is an independent development and has no relationship to Alpha Vantage.
 In general, the same Alpha Vantage [term of services](https://www.alphavantage.co/terms_of_service/) apply.
@@ -36,7 +36,7 @@ Excel 2003 is currently not supported.
 
 ## Usage Examples
 Use AVQ in your personal Excel based financial reporting to update your current stock values.
-![MyFinance](/MyFinance.png "Example of personal financial report")
+![MyFinance](/MyFinance.png "Example of personal financial report"){: .shadow}
 
 Excel Formula | Result
 ------------- | -------
