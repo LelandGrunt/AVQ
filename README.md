@@ -36,7 +36,7 @@ Excel 2003 is currently not supported.
 
 ## Usage Examples
 Use AVQ in your personal Excel based financial reporting to update your current stock values.
-![MyFinance](/MyFinance.png "Example of personal financial report"){: .shadow}
+![MyFinance](/MyFinance.png "Example of personal financial report")
 
 Excel Formula | Result
 ------------- | -------
