@@ -8,7 +8,7 @@ AVQ currently supports the following Alpha Vantage data:
 
 * TIME_SERIES_DATA: Daily time series (date, daily open, daily high, daily low, daily close, daily volume)
 
-AVQ required a free Alpha Vantage API Key, that can be requested on [www.alphavantage.co](https://www.alphavantage.co/support/#api-key).
+AVQ requires a free Alpha Vantage API Key, that can be requested on [www.alphavantage.co](https://www.alphavantage.co/support/#api-key).
 
 For users of the shutdown [xlquote](http://www.xlquotes.com) Add-In, AVQ provides an UDF with the same function signature "XLQ" as the original one, but supports only selected parameter values.
 
