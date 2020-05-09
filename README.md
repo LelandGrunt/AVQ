@@ -1,3 +1,8 @@
+# === Project Status ===
+
+The development of AVQ was stopped and the project is no longer supported.
+As a replacement use the new [FFE Excel Add-in](https://github.com/LelandGrunt/FFE) which provide much more functions.
+
 AVQ (Alpha Vantage [Query/Quote])
 =================================
 
@@ -105,8 +110,3 @@ Public Function XLQ(ticker As String, _
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
-
-## Project Status
-
-The development of AVQ was stopped and the project is no longer supported.
-As a replacement use the new [FFE Excel Add-in](https://github.com/LelandGrunt/FFE) which provide much more functions.
